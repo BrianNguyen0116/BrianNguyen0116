@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h3>Brian Nguyen</h3>
+  <h3>< Brian Nguyen ></h3>
   <h5>Full-Stack Enjoyer</h5>
   
   `C#` `.NET` `Java` `T-SQL` `HTML` `CSS` `Javascript`
