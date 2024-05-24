@@ -11,7 +11,7 @@
 <h4>Chào from Toronto! 👋 Currently, I'm...</h4>
 <ul>
   <li>working as an full-stack developer at Mackenzie Health.</li>
-  <li>working as a freelance e-commmerce web designer and developer.</li>
+  <li>working as a freelance e-commmerce web designer and full-stack developer.</li>
   <li>learning <b>React.js</b> for responsive web development and <b>Python</b> for data processing</li>
 </ul>
 
