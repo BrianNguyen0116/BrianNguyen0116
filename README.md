@@ -3,23 +3,37 @@
   <h3>< Brian Nguyen ></h3>
   <h5>Full-Stack Enjoyer</h5>
   
-  `C#` `.NET` `Java` `T-SQL` `HTML` `CSS` `Javascript`
+  `C#` `.NET` `Java` `mySQL` `T-SQL` `HTML` `CSS` `Javascript`
 </div>
 
 <hr>
 
-<h4>👋 Chào from Toronto! Currently, I'm...</h4>
+<h4>Chào from Toronto! 👋 Currently, I'm...</h4>
 <ul>
   <li>working as an full-stack developer at Mackenzie Health.</li>
   <li>working as a freelancer e-commmerce web designer and developer.</li>
-  <li>learning <b>React.js</b> for responsive development and <b>Python</b> for data processing</li>
+  <li>learning <b>React.js</b> for responsive web development and <b>Python</b> for data processing</li>
 </ul>
+
+<h4>I'm most confident in using...</h4>
+
+1. C# : ASP.NET.
+2. JS : Node.js, React.js and jQuery.
+3. HTML and CSS.
+4. Java
+5. T-SQL and mySQL.
 
 <br>
 
+<div align="center">
 <h4>I'm also always open to collaborate with anyone who thinks I'm fit for the job! 😤</h4>
-<a target="_blank" href="mailto:brian.nguyen0116@gmail.com">Contact me here</a> or at brian.nguyen0116@gmail.com.
 
+<h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briannguyen0116&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</h3>
+
+Feel free to contact me here at brian.nguyen0116@gmail.com.
+</div>
 
 
