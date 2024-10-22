@@ -18,7 +18,7 @@
 <h4>I'm most confident in using...</h4>
 
 1. C# : ASP.NET.
-2. JS : Node.js, React.js and jQuery.
+2. JS : Node.js, React.js, Next.s and jQuery.
 3. HTML and CSS.
 4. Java
 5. T-SQL and mySQL.
